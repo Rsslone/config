@@ -1,0 +1,60 @@
+<Asteroids>
+	<asteroid name="Small Asteroid" distance="10" mass="100" massVariability="0.5" minLevel="0" probability="10" richness="0.2" richnessVariability="0.5">
+		<ore itemStack="minecraft:iron_ore" chance="15" />
+		<ore itemStack="minecraft:gold_ore" chance="10" />
+		<ore itemStack="minecraft:redstone_ore" chance="10" />
+	</asteroid>
+	<asteroid name="Iridium Enriched Asteroid" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.75" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:iron_ore" chance="25" />
+		<ore itemStack="libvulpes:ore0 10" chance="5" />
+	</asteroid>
+	<asteroid name="Toxic Space Waste" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.25" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="immersiveengineering:ore URANIUM" chance="10" />
+		<ore itemStack="ic2:resource uranium_ore" chance="10" />
+	</asteroid>
+	<asteroid name="Ice Comet" distance="150" mass="25" massVariability="0.5" minLevel="0" probability="0.5" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:lapis_ore" chance="15" />
+		<ore itemStack="minecraft:diamond_ore" chance="1" />
+		<ore itemStack="biomesoplenty:gem_ore sapphire" chance="5" />
+		<ore itemStack="biomesoplenty:gem_ore malachite" chance="5" />
+		<ore itemStack="forestry:resources APATITE" chance="15" />
+		<ore itemStack="magneticraft:ores COBALT" chance="1" />
+		<ore itemStack="mekanism:oreblock OSMIUM" chance="1" />
+	</asteroid>
+	<asteroid name="Blood Red Asteroid" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.5" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:redstone_ore" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore ruby" chance="5" />
+		<ore itemStack="thaumcraft:ore_cinnabar" chance="1" />
+	</asteroid>
+	<asteroid name="Quartz Asteroid" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.75" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="minecraft:quartz_ore" chance="10" />
+		<ore itemStack="appliedenergistics2:quartz_ore" chance="5" />
+		<ore itemStack="appliedenergistics2:charged_quartz_ore" chance="1" />
+		<ore itemStack="thaumcraft:ore_quartz" chance="5" />
+	</asteroid>
+	<asteroid name="Dragon Asteroid" distance="250" mass="50" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="draconicevolution:draconium_ore NORMAL" chance="10" />
+		<ore itemStack="draconicevolution:draconium_ore NETHER" chance="10" />
+		<ore itemStack="draconicevolution:draconium_ore END" chance="10" />
+	</asteroid>
+	<asteroid name="The Odds For This Are 1 in 100000" distance="100" mass="250" massVariability="0.5" minLevel="0" probability="0.00001" richness="0.8" richnessVariability="0.3">
+		<ore itemStack="draconicevolution:draconium_ore NORMAL" chance="50" />
+		<ore itemStack="minecraft:diamond_ore" chance="50" />
+		<ore itemStack="appliedenergistics2:charged_quartz_ore" chance="50" />
+		<ore itemStack="thaumcraft:ore_cinnabar" chance="50" />
+		<ore itemStack="mekanism:oreblock OSMIUM" chance="50" />
+		<ore itemStack="ic2:resource uranium_ore" chance="50" />
+	</asteroid>
+	<asteroid name="Biomes O Plenty" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.75" richness="0.2" richnessVariability="0.3">
+		<ore itemStack="biomesoplenty:gem_ore ruby" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore sapphire" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore malachite" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore tanzanite" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore peridot" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore topaz" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore amber" chance="10" />
+		<ore itemStack="biomesoplenty:gem_ore amethyst" chance="10" />
+		<ore itemStack="biomesoplenty:biome_block" chance="10" />
+	</asteroid>
+	
+</Asteroids>

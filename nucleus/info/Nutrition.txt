@@ -1,0 +1,5 @@
+85% for each group adds +1 level of Toughness (Increased Armor, Health, Attack Speed)
+15% for each group adds +1 level of Malnourished (Reduced Health)
+15% Average of all groups gives Mining Fatigue (Slow mining and attack)
+5% Average of all groups gives Starving (Hunger Effect)
+1% in all groups will give Wither (You will die)

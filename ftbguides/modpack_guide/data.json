@@ -1,0 +1,19 @@
+{
+    "title": "TommyTek",
+    "author": [
+        "Rsslone"
+    ],
+    "icon": "item:ic2:wrench",
+    "pages": [
+        {
+            "id": "progression",
+            "title": "Progression Tree",
+            "icon": "item:draconicevolution:reactor_core"
+        },
+		{
+            "id": "modlist",
+            "title": "Mod List Information",
+            "icon": "item:magneticraft:floppy_disk"
+        }
+	]
+}

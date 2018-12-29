@@ -1,0 +1,1710 @@
+Binnie.juice.apricot
+
+Milk_goat
+
+Liquidchlorine
+
+Plutonium242
+	nuggetPlutonium242
+	ingotPlutonium242
+
+Plutonium241
+	nuggetPlutonium241
+	ingotPlutonium241
+
+Liquidoxygen
+
+Californium_250_fluoride_flibe
+
+Binnie.brandy.apple
+
+Binnie.liqueur.almond
+
+Binnie.wine.pineapple
+
+Tritanium
+	blockTritanium
+	dustTritanium
+	nuggetTritanium
+	oreTritanium
+	ingotTritanium
+
+Plutonium239
+	nuggetPlutonium239
+	ingotPlutonium239
+
+Plutonium238
+	nuggetPlutonium238
+	ingotPlutonium238
+
+Tin_nak_hot
+
+Bef2
+
+Seed.oil
+
+Ic2pahoehoe_lava
+
+TitaniumAluminide
+	sheetTitaniumAluminide
+	stickTitaniumAluminide
+	plateTitaniumAluminide
+	blockTitaniumAluminide
+	gearTitaniumAluminide
+	dustTitaniumAluminide
+	nuggetTitaniumAluminide
+	ingotTitaniumAluminide
+
+Lpg
+
+Neptunium237Oxide
+	nuggetNeptunium237Oxide
+	ingotNeptunium237Oxide
+
+Liquidsulfurdioxide
+
+Binnie.juice.pear
+
+Ic2construction_foam
+
+ConductiveIron
+
+Curium247Oxide
+	nuggetCurium247Oxide
+	ingotCurium247Oxide
+
+Dirt
+	compressed1xDirt
+	reinforcedDirt
+	compressed2xDirt
+	compressed3xDirt
+	strongDirt
+	compressed4xDirt
+	dustDirt
+	blockSlimeDirt
+	hardDirt
+
+LithiumManganeseDioxide
+	ingotLithiumManganeseDioxide
+
+Latex
+
+Liquidtritium
+
+Emerald
+	blockEmerald
+	oreEmerald
+	gemEmerald
+
+Ic2hydrogen
+
+Curium_243_fluoride
+
+Quartz_nak_hot
+
+Gold_nak
+
+Canola_methanol_mix
+
+Binnie.liqueur.blackberry
+
+Nak_hot
+
+Plutonium_242
+
+Plutonium_241
+
+Liquidsodium
+
+Magnesium
+	blockMagnesium
+	dustMagnesium
+	oreMagnesium
+	ingotMagnesium
+
+Supremium
+
+Binnie.brandy.pear
+
+Americium_241_fluoride
+
+Plutonium238Oxide
+	nuggetPlutonium238Oxide
+	ingotPlutonium238Oxide
+
+Curium_246_fluoride_flibe
+
+HardCarbon
+	ingotHardCarbon
+
+Plutonium_239
+
+Plutonium_238
+
+Potion
+
+Fluorite_water
+
+FoolsGold
+	dustFoolsGold
+	ingotFoolsGold
+
+Plutonium_239_fluoride_flibe
+
+Ice
+	blockIce
+	blockPackedIce
+
+Binnie.liqueur.banana
+
+Californium_249_fluoride_flibe
+
+Binnie.liqueur.melon
+
+Binnie.liqueur.peach
+
+Matter_plasma
+
+Plutonium241Oxide
+	nuggetPlutonium241Oxide
+	ingotPlutonium241Oxide
+
+Binnie.juice.cranberry
+
+Ironwood
+	oreIronwood
+	ingotIronwood
+
+Nak
+
+Graphite
+	blockGraphite
+	dustGraphite
+	ingotGraphite
+
+Uranium_fluoride_flibe
+
+Methanol
+
+Sand
+	compressed1xSand
+	compressed2xSand
+
+Concrete_green
+
+Neutron
+
+Yellorium
+
+Syngas
+
+Sulfur_dioxide
+
+Concrete_orange
+
+Thorium_230_fluoride
+
+Ic2superheated_steam
+
+Californium252
+	nuggetCalifornium252
+	ingotCalifornium252
+
+Californium251
+	nuggetCalifornium251
+	ingotCalifornium251
+
+Californium250
+	nuggetCalifornium250
+	ingotCalifornium250
+
+Manasteel
+
+Californium249Oxide
+	nuggetCalifornium249Oxide
+	ingotCalifornium249Oxide
+
+Americium241Base
+	ingotAmericium241Base
+
+Thorium_230_fluoride_flibe
+
+Americium_242_fluoride_flibe
+
+Refinedglowstone
+
+Curium243
+	nuggetCurium243
+	ingotCurium243
+
+Binnie.whiskey
+
+Uranium_238
+
+Californium249
+	nuggetCalifornium249
+	ingotCalifornium249
+
+Uranium_235
+
+Uranium_233
+
+Binnie.juice.red.grape
+
+Kerosene
+
+Lif
+
+Berkelium247Oxide
+	nuggetBerkelium247Oxide
+	ingotBerkelium247Oxide
+
+Elite
+	alloyElite
+	plateElite
+	circuitElite
+
+Magnesium_nak_hot
+
+PulsatingIron
+
+Diesel
+
+Berkelium_247_fluoride
+
+Binnie.wine.white
+
+If.protein
+
+Binnie.growth.medium
+
+Ic2coolant
+
+Binnie.juice.apple
+
+Boric_acid
+
+Tin_nak
+
+Uranium_fluoride
+
+Binnie.liqueur.blackcurrant
+
+ManganeseDioxide
+	dustManganeseDioxide
+	ingotManganeseDioxide
+
+Boron11
+	nuggetBoron11
+	ingotBoron11
+
+Boron10
+	nuggetBoron10
+	ingotBoron10
+
+Clay
+	plateClay
+	dustClay
+
+Neptunium237Base
+	ingotNeptunium237Base
+
+Berkelium248Base
+	ingotBerkelium248Base
+
+Plutonium
+	blockDepletedPlutonium
+
+Liquidhelium_nak_hot
+
+ManganeseOxide
+	dustManganeseOxide
+	ingotManganeseOxide
+
+Brine
+
+Napalm
+
+Binnie.beer.lager
+
+Thorium232Oxide
+	nuggetThorium232Oxide
+	ingotThorium232Oxide
+
+Californium249Base
+	ingotCalifornium249Base
+
+Osmium
+	chunkOsmium
+	shardOsmium
+	rockyChunkOsmium
+	crystalOsmium
+	dustOsmium
+	blockOsmium
+	dustDirtyOsmium
+	nuggetOsmium
+	oreOsmium
+	ingotOsmium
+	clumpOsmium
+
+Flibe
+
+Neptunium_237_fluoride_flibe
+
+Lithium
+	dustTinyLithium
+	blockLithium
+	dustLithium
+	oreLithium
+	ingotLithium
+
+Plutonium239Oxide
+	nuggetPlutonium239Oxide
+	ingotPlutonium239Oxide
+
+Ic2hot_water
+
+Plutonium241Base
+	ingotPlutonium241Base
+
+Thorium_230
+
+Plutonium_241_fluoride_flibe
+
+Milk_jersey
+
+Etchacid
+
+Poison
+
+Americium242
+	nuggetAmericium242
+	ingotAmericium242
+
+Americium241
+	nuggetAmericium241
+	ingotAmericium241
+
+Plutonium_242_fluoride
+
+Binnie.wine.tomato
+
+Milk
+
+Cryotheum_nak
+
+Plutonium242Oxide
+	nuggetPlutonium242Oxide
+	ingotPlutonium242Oxide
+
+Uranium238
+	nuggetUranium238
+	ingotUranium238
+
+Ender_nak_hot
+
+Uranium235
+	nuggetUranium235
+	ingotUranium235
+
+Lubricant
+
+Uranium233
+	nuggetUranium233
+	ingotUranium233
+
+Ic2heavy_water
+
+Uranium_235_fluoride
+
+Heavywater
+
+Fiery
+	blockFiery
+	ingotFiery
+
+Tritium
+
+Binnie.vodka
+
+Binnie.spirit.sugarcane
+
+Neptunium237
+	nuggetNeptunium237
+	ingotNeptunium237
+
+Neptunium236
+	nuggetNeptunium236
+	ingotNeptunium236
+
+Curium247Base
+	ingotCurium247Base
+
+IronCompressed
+	blockIronCompressed
+	gearIronCompressed
+	ingotIronCompressed
+
+Americium_241
+
+Glowstone_nak_hot
+
+Concrete_lime
+
+Binnie.wine.red
+
+Ferroboron
+	ingotFerroboron
+
+Binnie.liqueur.chocolate
+
+Iridium
+	plateIridium
+	stickIridium
+	coilIridium
+	blockIridium
+	dustIridium
+	nuggetIridium
+	oreIridium
+	ingotIridium
+
+Binnie.mash.rye
+
+Thorium230Oxide
+	nuggetThorium230Oxide
+	ingotThorium230Oxide
+
+Wub
+	ingotWub
+	gemWub
+
+Binnie.liquor.apple
+
+Baseessence
+
+Binnie.brandy.fruit
+
+Elementium
+
+AluminumBrass
+
+Enderium
+
+Binnie.juice.cherry
+
+Americium241Oxide
+	nuggetAmericium241Oxide
+	ingotAmericium241Oxide
+
+Emerald_nak
+
+Binnie.juice.orange
+
+Zirconium
+	blockZirconium
+	dustZirconium
+	ingotZirconium
+
+Binnie.mash.wheat
+
+Binnie.liquor.pear
+
+Neptunium_237_fluoride
+
+Bronze
+	blockBronze
+	gearBronze
+	plateBronze
+	dustTinyBronze
+	dustBronze
+	nuggetBronze
+	ingotBronze
+	plateDenseBronze
+
+Berkelium248Oxide
+	nuggetBerkelium248Oxide
+	ingotBerkelium248Oxide
+
+Hot_spring_water
+
+Vasholine
+
+Curium_247_fluoride_flibe
+
+Tin
+	blockTin
+	shardTin
+	crystalTin
+	gearTin
+	dustDirtyTin
+	crushedTin
+	clumpTin
+	crushedPurifiedTin
+	rockyChunkTin
+	chunkTin
+	plateTin
+	dustTinyTin
+	dustTin
+	nuggetTin
+	oreTin
+	ingotTin
+	plateDenseTin
+
+Lapis_nak
+
+Concrete_purple
+
+Berkelium_247_fluoride_flibe
+
+Uranium235Oxide
+	nuggetUranium235Oxide
+	ingotUranium235Oxide
+
+Concrete_magenta
+
+Gasoline
+
+DemonicMetal
+	blockDemonicMetal
+	ingotDemonicMetal
+
+Oil
+
+Binnie.liqueur.anise
+
+ElectricalSteel
+
+Berkelium248
+	nuggetBerkelium248
+	ingotBerkelium248
+
+Berkelium247
+	nuggetBerkelium247
+	ingotBerkelium247
+
+Uranium233Oxide
+	nuggetUranium233Oxide
+	ingotUranium233Oxide
+
+Binnie.tequila
+
+Binnie.brandy.elderberry
+
+Curium243Oxide
+	nuggetCurium243Oxide
+	ingotCurium243Oxide
+
+Thorium_fluoride
+
+Lapis
+	blockLapis
+	plateLapis
+	dustTinyLapis
+	dustLapis
+	oreLapis
+	ingotLapis
+	plateDenseLapis
+	gemLapis
+
+Quartz_nak
+
+Binnie.wine.plum
+
+Refinedobsidian
+
+Plastic
+
+Concrete_gray
+
+Milk_sheep
+
+Canola_oil
+
+Binnie.bacteria
+
+Plutonium_238_fluoride_flibe
+
+Plasma
+
+Draconium
+	blockDraconium
+	dustDraconium
+	nuggetDraconium
+	oreDraconium
+	ingotDraconium
+
+Californium252Base
+	ingotCalifornium252Base
+
+Americium_243_fluoride
+
+Binnie.wine.cranberry
+
+Binnie.juice.white.grape
+
+Binnie.rum.white
+
+Copper_nak_hot
+
+Iron
+	barsIron
+	dustTinyIron
+	blockSheetmetalIron
+	heavyPlateIron
+	slabSheetmetalIron
+	shardIron
+	crystalIron
+	gearIron
+	dustDirtyIron
+	crushedIron
+	clumpIron
+	crushedPurifiedIron
+	sheetIron
+	stickIron
+	rockyChunkIron
+	chunkIron
+	plateIron
+	blockIron
+	lightPlateIron
+	dustIron
+	nuggetIron
+	oreIron
+	ingotIron
+	plateDenseIron
+
+Inferium
+
+Coolant
+
+Coal
+	dustHydratedCoal
+	blockCoal
+	dustCoal
+	oreCoal
+	gemCoal
+
+Ic2steam
+
+Concrete_white
+
+Uranium
+	slabSheetmetalUranium
+	crushedUranium
+	blockDepletedUranium
+	crushedPurifiedUranium
+	plateUranium
+	blockUranium
+	dustUranium
+	nuggetUranium
+	oreUranium
+	slabUranium
+	ingotUranium
+	blockSheetmetalUranium
+
+Uranium235Base
+	ingotUranium235Base
+
+Beryllium
+	blockBeryllium
+	dustBeryllium
+	ingotBeryllium
+
+Basic
+	drawerBasic
+	plateBasic
+	circuitBasic
+	alloyBasic
+
+Sulfur_trioxide
+
+Thorium_232
+
+Californium250Oxide
+	nuggetCalifornium250Oxide
+	ingotCalifornium250Oxide
+
+Americium243Base
+	ingotAmericium243Base
+
+Ic2oxygen
+
+UraniumOxide
+	dustUraniumOxide
+	ingotUraniumOxide
+
+Ic2air
+
+Diamond_nak_hot
+
+Nitrogen
+
+Binnie.wine.cherry
+
+Sewage
+
+Binnie.beer.ale
+
+Curium247
+	nuggetCurium247
+	ingotCurium247
+
+Quartz
+	crystalNetherQuartz
+	crystalCertusQuartz
+	dustCertusQuartz
+	blockQuartz
+	dustQuartz
+	oreQuartz
+	slabQuartz
+	ingotQuartz
+	dustNetherQuartz
+	gemQuartz
+
+Curium_245_fluoride
+
+Lapis_nak_hot
+
+Californium_252
+
+Californium_251
+
+Californium_250
+
+Plutonium239Base
+	ingotPlutonium239Base
+
+Binnie.juice.olive
+
+Titanium
+	coilTitanium
+	gearTitanium
+	sheetTitanium
+	stickTitanium
+	plateTitanium
+	blockTitanium
+	dustTitanium
+	nuggetTitanium
+	oreTitanium
+	ingotTitanium
+
+Thorium230Base
+	ingotThorium230Base
+
+Californium_249
+
+Oxygen
+
+Superium
+
+Binnie.brandy.plum
+
+Slop
+
+Binnie.whiskey.wheat
+
+Binnie.liqueur.cinnamon
+
+Juice
+
+Binnie.dna.raw
+
+Advanced
+	alloyAdvanced
+	plateAdvanced
+	circuitAdvanced
+
+Binnie.wine.apricot
+
+Neptunium236Base
+	ingotNeptunium236Base
+
+DarkSteel
+
+Xpjuice
+
+Uranium238Base
+	ingotUranium238Base
+
+Plutonium_fluoride
+
+Americium242Oxide
+	nuggetAmericium242Oxide
+	ingotAmericium242Oxide
+
+Ardite
+	blockArdite
+	nuggetArdite
+	oreArdite
+	ingotArdite
+
+Berkelium247Base
+	ingotBerkelium247Base
+
+Glowstone_nak
+
+Corium
+
+Concrete_light_blue
+
+TitaniumIridium
+	sheetTitaniumIridium
+	stickTitaniumIridium
+	plateTitaniumIridium
+	blockTitaniumIridium
+	gearTitaniumIridium
+	dustTitaniumIridium
+	nuggetTitaniumIridium
+	ingotTitaniumIridium
+
+Potassium
+
+Uranium_238_fluoride
+
+Milk_friesian
+
+Liquidhydrogenchloride
+
+Creosote
+
+Blood
+	slimeballBlood
+
+Binnie.juice.pineapple
+
+Copper_nak
+
+Sulfuricacid
+
+Plutonium_242_fluoride_flibe
+
+Diamond
+	itemCompressedDiamond
+	blockDiamond
+	gearDiamond
+	dustDiamond
+	oreDiamond
+	gemDiamond
+
+Neptunium_236
+
+Binnie.brandy.apricot
+
+Uranium_235_fluoride_flibe
+
+Terrasteel
+
+Plutonium_239_fluoride
+
+Tungsten
+	rockyChunkTungsten
+	chunkTungsten
+	lightPlateTungsten
+	dustTungsten
+	nuggetTungsten
+	oreTungsten
+	ingotTungsten
+	heavyPlateTungsten
+
+Lead
+	dustTinyLead
+	slabLead
+	blockSheetmetalLead
+	heavyPlateLead
+	slabSheetmetalLead
+	shardLead
+	crystalLead
+	dustDirtyLead
+	crushedLead
+	clumpLead
+	crushedPurifiedLead
+	rockyChunkLead
+	chunkLead
+	plateLead
+	blockLead
+	lightPlateLead
+	dustLead
+	nuggetLead
+	oreLead
+	ingotLead
+	plateDenseLead
+	tinyDustLead
+
+Lava
+
+Thorium_232_fluoride
+
+Ic2biogas
+
+Gold_nak_hot
+
+Steeleaf
+	ingotSteeleaf
+
+Psi
+
+Curium_247
+
+Curium_246
+
+Curium_245
+
+Curium_243
+
+Iron_nak
+
+Californium_252_fluoride
+
+Platinum
+	blockPlatinum
+
+Binnie.bacteria.vector
+
+Binnie.mash.grain
+
+Curium243Base
+	ingotCurium243Base
+
+Curium246
+	nuggetCurium246
+	ingotCurium246
+
+Curium245
+	nuggetCurium245
+	ingotCurium245
+
+Binnie.juice.banana
+
+Binnie.sap
+
+Dist_water
+
+Americium_242
+
+Californium_249_fluoride
+
+Californium_250_fluoride
+
+Californium251Oxide
+	nuggetCalifornium251Oxide
+	ingotCalifornium251Oxide
+
+Curium_247_fluoride
+
+Plutonium_241_fluoride
+
+Ethanol
+
+Liquidhelium_nak
+
+Invar
+	blockInvar
+
+Blutonium
+
+Ichor
+
+LeadPlatinum
+	ingotLeadPlatinum
+
+Aluminum
+	slabSheetmetalAluminum
+	coilAluminum
+	scaffoldingAluminum
+	fenceAluminum
+	wireAluminum
+	sheetAluminum
+	stickAluminum
+	rockyChunkAluminum
+	chunkAluminum
+	plateAluminum
+	blockAluminum
+	lightPlateAluminum
+	dustAluminum
+	nuggetAluminum
+	oreAluminum
+	slabAluminum
+	ingotAluminum
+	blockSheetmetalAluminum
+	heavyPlateAluminum
+
+Glycerin
+
+Binnie.juice.lemon
+
+Binnie.liquor.fruit
+
+Molten_tritanium
+
+Honey
+	dropHoney
+
+DU
+	plateDU
+
+Liquidethene
+
+Binnie.liquor.apricot
+
+Ic2biomass
+
+Knightmetal
+	blockKnightmetal
+	oreKnightmetal
+	ingotKnightmetal
+
+Steel
+	scaffoldingSteel
+	fenceSteel
+	slabSteel
+	blockSheetmetalSteel
+	heavyPlateSteel
+	slabSheetmetalSteel
+	fanSteel
+	gearSteel
+	wireSteel
+	sheetSteel
+	stickSteel
+	rockyChunkSteel
+	chunkSteel
+	plateSteel
+	blockSteel
+	lightPlateSteel
+	dustSteel
+	nuggetSteel
+	ingotSteel
+	plateDenseSteel
+
+RedAlloy
+	ingotRedAlloy
+
+Hydrofluoric_acid
+
+Americium_243_fluoride_flibe
+
+Ender_nak
+
+Californium_251_fluoride
+
+Astralstarmetal
+
+Binnie.wine.citrus
+
+PlutoniumOxide
+
+Binnie.cider.apple
+
+Neptunium_237
+
+Concrete_pink
+
+Binnie.ciderpear
+
+Americium243Oxide
+	nuggetAmericium243Oxide
+	ingotAmericium243Oxide
+
+Obsidian
+	plateObsidian
+	dustTinyObsidian
+	itemCompressedObsidian
+	dustObsidian
+	plateDenseObsidian
+
+Binnie.liqueur.coffee
+
+ClayRaw
+	plateClayRaw
+
+Binnie.beer.stout
+
+ThoriumOxide
+	dustThoriumOxide
+	ingotThoriumOxide
+
+Americium243
+	nuggetAmericium243
+	ingotAmericium243
+
+Soularium
+
+Ammonia
+
+Binnie.spirit.gin
+
+Neptunium_236_fluoride
+
+Californium251Base
+	ingotCalifornium251Base
+
+Thorium_232_fluoride_flibe
+
+Binnie.spirit.neutral
+
+ReinforcedObsidian
+	blockReinforcedObsidian
+	ingotReinforcedObsidian
+
+Californium_251_fluoride_flibe
+
+Binnie.bacteria.poly
+
+Curium245Oxide
+	nuggetCurium245Oxide
+	ingotCurium245Oxide
+
+Shibuichi
+	ingotShibuichi
+
+Binnie.wine.banana
+
+Helium
+
+Milk_holstein
+
+Intermedium
+
+Plantoil
+
+Americium242Base
+	ingotAmericium242Base
+
+Binnie.rum.dark
+
+Steam
+
+Emerald_nak_hot
+
+Alubrass
+	blockAlubrass
+	nuggetAlubrass
+	ingotAlubrass
+
+Concrete_red
+
+Curium246Base
+	ingotCurium246Base
+
+Zinc
+	rockyChunkZinc
+	chunkZinc
+	dustZinc
+	nuggetZinc
+	ingotZinc
+
+Ic2weed_ex
+
+Binnie.juice.tomato
+
+Americium_242_fluoride
+
+Plutonium238Base
+	ingotPlutonium238Base
+
+Boron
+	blockBoron
+	dustBoron
+	oreBoron
+	ingotBoron
+
+Nickel
+	slabSheetmetalNickel
+	rockyChunkNickel
+	chunkNickel
+	plateNickel
+	blockNickel
+	dustNickel
+	nuggetNickel
+	oreNickel
+	slabNickel
+	ingotNickel
+	blockSheetmetalNickel
+
+Americium_241_fluoride_flibe
+
+Binnie.liquor.elderberry
+
+Binnie.fermented.potatoes
+
+Gold
+	dustTinyGold
+	blockSheetmetalGold
+	heavyPlateGold
+	slabSheetmetalGold
+	shardGold
+	crystalGold
+	coilGold
+	gearGold
+	dustDirtyGold
+	crushedGold
+	clumpGold
+	crushedPurifiedGold
+	rockyChunkGold
+	chunkGold
+	plateGold
+	blockGold
+	lightPlateGold
+	dustGold
+	nuggetGold
+	oreGold
+	ingotGold
+	plateDenseGold
+
+Uranium_238_fluoride_flibe
+
+Liquiddeuterium
+
+Hydrogen
+
+Glowstone
+	dustRedGlowstone
+	dustLightGrayGlowstone
+	dustMagentaGlowstone
+	dustOrangeGlowstone
+	dustBlueGlowstone
+	dustLimeGlowstone
+	dustGrayGlowstone
+	dustPinkGlowstone
+	dustWhiteGlowstone
+	dustLightBlueGlowstone
+	dustBrownGlowstone
+	dustGreenGlowstone
+	dustBlackGlowstone
+	dustGlowstone
+	dustCyanGlowstone
+	dustPurpleGlowstone
+
+Berkelium_248_fluoride_flibe
+
+Binnie.brandy.citrus
+
+Californium252Oxide
+	nuggetCalifornium252Oxide
+	ingotCalifornium252Oxide
+
+Multistorage:concrete
+
+Binnie.cider.peach
+
+Helium3
+
+Binnie.latex
+
+Constantan
+	slabSheetmetalConstantan
+	blockSheetmetalConstantan
+	plateConstantan
+	blockConstantan
+	dustConstantan
+	nuggetConstantan
+	slabConstantan
+	ingotConstantan
+
+Binnie.liqueur.lemon
+
+Sulfuric_acid
+
+Silicon
+	bouleSilicon
+	waferSilicon
+	plateSilicon
+	dustSilicon
+	nuggetSilicon
+	ingotSilicon
+
+Diamond_nak
+
+Short.mead
+
+Liquid_crystal
+
+Binnie.beer.wheat
+
+Concrete_cyan
+
+Thorium_fluoride_flibe
+
+Sulfur
+	dustTinySulfur
+	dustSulfur
+
+Lithium7
+	nuggetLithium7
+	ingotLithium7
+
+Lithium6
+	nuggetLithium6
+	ingotLithium6
+
+Binnie.juice.plum
+
+Curium_245_fluoride_flibe
+
+Liquidhydrogen
+
+Binnie.liquor.cherry
+
+Dilithium
+	crystalDilithium
+	dustDilithium
+	oreDilithium
+	gemDilithium
+
+Carbon
+	itemCompressedCarbon
+	ingotCarbon
+
+Deuterium
+
+MagnesiumDiboride
+	solenoidMagnesiumDiboride
+	ingotMagnesiumDiboride
+
+Oxygen_difluoride
+
+Manyullyn
+	blockManyullyn
+	nuggetManyullyn
+	ingotManyullyn
+
+Binnie.liqueur.cherry
+
+Binnie.turpentine
+
+Binnie.liqueur.orange
+
+Plutonium_fluoride_flibe
+
+Curium245Base
+	ingotCurium245Base
+
+Berkelium_248_fluoride
+
+Binnie.liqueur.raspberry
+
+Cyanite
+
+Mithril
+	rockyChunkMithril
+	chunkMithril
+	dustMithril
+	nuggetMithril
+	ingotMithril
+
+Binnie.juice.lime
+
+Uranium238Oxide
+	nuggetUranium238Oxide
+	ingotUranium238Oxide
+
+Xu_evil_metal
+
+EnergeticAlloy
+
+Binnie.liqueur.hazelnut
+
+Boron_nitride_solution
+
+Bio.ethanol
+
+Neptunium236Oxide
+	nuggetNeptunium236Oxide
+	ingotNeptunium236Oxide
+
+Liquidlithium
+
+Curium_243_fluoride_flibe
+
+Curium246Oxide
+	nuggetCurium246Oxide
+	ingotCurium246Oxide
+
+ElectrotineAlloy
+	ingotElectrotineAlloy
+
+Cryotheum_nak_hot
+
+Concrete_brown
+
+Binnie.juice.carrot
+
+Binnie.juice.elderberry
+
+Meat
+
+Binnie.beer.corn
+
+Plutonium_238_fluoride
+
+Binnie.wine.agave
+
+Concrete_blue
+
+Americium_243
+
+Berkelium_248
+
+Berkelium_247
+
+HOPGraphite
+	dustHOPGraphite
+	ingotHOPGraphite
+
+Ic2distilled_water
+
+Binnie.whiskey.rye
+
+Silver
+	blockSilver
+	slabSheetmetalSilver
+	shardSilver
+	crystalSilver
+	dustDirtySilver
+	crushedSilver
+	clumpSilver
+	crushedPurifiedSilver
+	rockyChunkSilver
+	chunkSilver
+	plateSilver
+	dustTinySilver
+	dustSilver
+	nuggetSilver
+	oreSilver
+	slabSilver
+	ingotSilver
+	blockSheetmetalSilver
+
+RefinedObsidian
+	blockRefinedObsidian
+	dustRefinedObsidian
+	nuggetRefinedObsidian
+	ingotRefinedObsidian
+
+Biodiesel
+
+Thorium232Base
+	ingotThorium232Base
+
+Prudentium
+
+Copper
+	dustTinyCopper
+	slabCopper
+	solenoidCopper
+	blockSheetmetalCopper
+	heavyPlateCopper
+	slabSheetmetalCopper
+	shardCopper
+	crystalCopper
+	coilCopper
+	gearCopper
+	dustDirtyCopper
+	crushedCopper
+	clumpCopper
+	wireCopper
+	crushedPurifiedCopper
+	sheetCopper
+	stickCopper
+	rockyChunkCopper
+	chunkCopper
+	plateCopper
+	blockCopper
+	lightPlateCopper
+	dustCopper
+	nuggetCopper
+	oreCopper
+	ingotCopper
+	plateDenseCopper
+
+Water
+
+Binnie.wine.elderberry
+
+Bio_diesel
+
+Unstable
+	nuggetUnstable
+	ingotUnstable
+
+Concrete_yellow
+
+Iron_nak_hot
+
+Concrete
+	blockConcrete
+
+Essence
+
+Liquidsulfurtrioxide
+
+Binnie.brandy.cherry
+
+Ic2uu_matter
+
+Binnie.juice
+
+Concrete_black
+
+TinSilver
+	ingotTinSilver
+
+Brass
+
+Binnie.juice.grapefruit
+
+Binnie.mash.corn
+
+EvilMetal
+	blockEvilMetal
+	ingotEvilMetal
+
+Electrum
+	slabSheetmetalElectrum
+	slabElectrum
+	plateElectrum
+	blockElectrum
+	dustElectrum
+	nuggetElectrum
+	ingotElectrum
+	blockSheetmetalElectrum
+	wireElectrum
+
+Thorium
+	blockThorium
+	dustThorium
+	oreThorium
+	ingotThorium
+	blockDepletedThorium
+
+Sodium
+
+Binnie.whiskey.corn
+
+Curium_246_fluoride
+
+Xu_demonic_metal
+
+Liquidhelium
+
+Binnie.juice.peach
+
+Manganese
+
+Binnie.brandy.grape
+
+Xu_enchanted_metal
+
+Concrete_silver
+
+RefinedIron
+	ingotRefinedIron
+
+Sludge
+
+Cobalt
+	rockyChunkCobalt
+	chunkCobalt
+	blockCobalt
+	dustCobalt
+	nuggetCobalt
+	oreCobalt
+	ingotCobalt
+
+RefinedGlowstone
+	blockRefinedGlowstone
+	nuggetRefinedGlowstone
+	ingotRefinedGlowstone
+
+Californium_252_fluoride_flibe
+
+Binnie.wine.sparkling
+
+Uranium_233_fluoride
+
+EnchantedMetal
+	blockEnchantedMetal
+	ingotEnchantedMetal
+
+Binnie.beer.rye
+
+EnrichedGold
+	dustEnrichedGold
+	ingotEnrichedGold
+
+Diborane
+
+Plutonium242Base
+	ingotPlutonium242Base
+
+Tough
+	ingotTough
+
+Californium250Base
+	ingotCalifornium250Base
+
+For.honey
+
+Calcium_sulfate_solution
+
+Magnesium_nak
+
+Ic2hot_coolant
+
+Binnie.liqueur.mint
+
+Neptunium_236_fluoride_flibe
+
+Binnie.resin
+
+VibrantAlloy
+
+Radaway
+
+Uranium_233_fluoride_flibe
+
+Pigiron
+	blockPigiron
+	nuggetPigiron
+	ingotPigiron
+
+Binnie.liqueur.herbal
+
+Thorium232
+	nuggetThorium232
+	ingotThorium232
+
+Thorium230
+	nuggetThorium230
+	ingotThorium230
+
+Stone
+	reinforcedStone
+	sonarStableStone
+	gearStone
+	brickStone
+	bricksStone
+	hardStone
+	strongStone
+	rodStone
+	dustStone
+	slabStone
+
+DraconiumAwakened
+	blockDraconiumAwakened
+	nuggetDraconiumAwakened
+	ingotDraconiumAwakened
+
+Uranium233Base
+	ingotUranium233Base
+
+Binnie.wine.carrot
+
+Flint
+	blockFlint
+	ingotFlint
+
+Binnie.wine.fortified
+
+Biomass
+
+Fluorine
+

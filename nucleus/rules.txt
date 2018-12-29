@@ -1,0 +1,5 @@
+&a1: Don't make crazy builds that lag the server. USE LAGGOGGLES!
+&a2: Don't abuse broken stuff. Report it with /ticket IMMEDIATELY.
+&a3: Absolutely no external cheats or clientside mods that give you advantages.
+&a4: No trolling others that don't enjoy it. Use /helpop if you need help.
+&a5: More useful information at /spawn or /info
