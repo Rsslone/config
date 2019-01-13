@@ -85,6 +85,11 @@
     afktime=1357
     username="Jahn_M_L"
 }
+"306c24b1-acd3-4fe0-b91a-903426bd547e" {
+    activetime=57
+    afktime=0
+    username=Dabestchicken
+}
 "322bb460-1f47-473d-9e02-26af2de85ba9" {
     activetime=433
     afktime=0
@@ -309,7 +314,7 @@ b0e80a19-1668-4416-acec-3e95ac94883d {
     username=LilSus
 }
 bc6f1f5f-8f67-4772-9fbf-b1ae3a0903a3 {
-    activetime=420398
+    activetime=420664
     afktime=165500
     milestones {
         cookies=111395
@@ -421,7 +426,7 @@ fabf06fc-7d98-4d41-9be9-dc0b1e51b562 {
     username=Patrick0909b
 }
 fb817c3b-ff91-4685-9fc6-8753eaefe3af {
-    activetime=131939
+    activetime=132663
     afktime=12433
     milestones {
         cookies=13693

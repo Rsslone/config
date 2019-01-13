@@ -7,3 +7,5 @@ splash.properties
 splash.properties
 activetime/storage/945985315751450players.stor.tmp
 prism/prism.mv.db
+prism/prism.mv.db
+*.db
