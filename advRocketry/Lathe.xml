@@ -23,142 +23,6 @@
 <Recipes useDefault="true">
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotAluminum</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveengineering:material 2 3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotCobalt</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickcobalt 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotBoron</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickboron 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotTitanium</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod 2 7</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotOctine</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickoctine 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotMagnesium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickmagnesium 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotCopper</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod 2 4</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotGold</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickgold 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotAluminium</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveengineering:material 2 3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotSilver</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_sticksilver 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotIridium</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod 2 10</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotThorium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickthorium 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotSyrmorite</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_sticksyrmorite 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLithium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_sticklithium 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotUranium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickuranium 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLead</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_sticklead 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotDraconium</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_stickdraconium 2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotTitaniumAluminide</oreDict>
 		</input>
 		<output>
@@ -167,10 +31,10 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotArdite</oreDict>
+			<oreDict>ingotAluminum</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_stickardite 2</itemStack>
+			<itemStack>immersiveengineering:material 2 3</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -183,26 +47,26 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotOsmium</oreDict>
+			<oreDict>ingotTitanium</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_stickosmium 2</itemStack>
+			<itemStack>libvulpes:productrod 2 7</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotTin</oreDict>
+			<oreDict>ingotIridium</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_sticktin 2</itemStack>
+			<itemStack>libvulpes:productrod 2 10</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotNickel</oreDict>
+			<oreDict>ingotCopper</oreDict>
 		</input>
 		<output>
-			<itemStack>jaopca:item_sticknickel 2</itemStack>
+			<itemStack>libvulpes:productrod 2 4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

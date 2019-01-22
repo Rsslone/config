@@ -38,6 +38,15 @@
 			<itemStack>libvulpes:productingot 1 6</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="6000" power ="1024">
+		<input>
+			<itemStack>ic2:misc_resource 1 1></itemStack>
+			<itemStack>minecraft:clay_ball</itemStack>
+		</input>
+		<output>
+			<itemStack>libvulpes:productingot 1 10</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="9000" power ="20">
 		<input>
 			<oreDict>ingotAluminum 7</oreDict>
