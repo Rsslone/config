@@ -1,4 +1,5 @@
-*.stor.tmp
+activetime/
+webapi/
 *.stor
 *.db
 brandon3055/contributors.json
