@@ -1,5 +1,5 @@
 <galaxy>
-    <star name="Sol" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0" blackHole="false">
+    <star name="Sol" temp="50" x="0" y="0" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Mercury" DIMID="1001">
             <skyColor>0,0,0</skyColor>
 			<atmosphereDensity>150</atmosphereDensity>
@@ -183,7 +183,7 @@
 			<rotationalPeriod>25900</rotationalPeriod>
 		</planet>
     </star>
-	<star name="Alpha Centauri" temp="100" x="100" y="-25" numPlanets="0" numGasGiants="0">
+	<star name="Alpha Centauri" temp="40" x="-20" y="-10" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Melmac" DIMID="1100">
             <skyColor>0,1,0</skyColor>
 			<fogColor>0,0,1</fogColor>
@@ -283,5 +283,17 @@
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
+	</star>
+	<star name="Sirius" temp="95" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
+	</star>
+	<star name="Rigel" temp="100" x="70" y="-70" numPlanets="0" numGasGiants="0" blackHole="false">
+	</star>
+	<star name="RX J1131-1231" temp="0" x="90" y="90" numPlanets="0" numGasGiants="0" blackHole="true">
+	</star>
+	<star name="Canopus" temp="70" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
+	</star>
+	<star name="Arcturus" temp="30" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
+	</star>
+	<star name="Antares" temp="5" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
 	</star>
 </galaxy>
