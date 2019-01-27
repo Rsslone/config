@@ -1,18 +1,19 @@
 <galaxy>
     <star name="Sol" temp="50" x="0" y="0" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Mercury" DIMID="1001">
-            <skyColor>0,0,0</skyColor>
-			<atmosphereDensity>150</atmosphereDensity>
+            <skyColor>0.7,0.7,0.7</skyColor>
+			<fogColor>0.74,0.74,0.74</fogcolor>
+			<atmosphereDensity>20</atmosphereDensity>
 			<gravitationalMultiplier>38</gravitationalMultiplier>
-			<orbitalDistance>40</orbitalDistance>
+			<orbitalDistance>80</orbitalDistance>
 			<rotationalPeriod>1400000</rotationalPeriod>
         </planet>
 		<planet name="Venus" DIMID="1002">
-            <skyColor>0,0,0</skyColor>
+            <skyColor>0.8,0.8,0.8</skyColor>
 			<fogColor>0.9,0.9,0.9</fogColor>
 			<atmosphereDensity>195</atmosphereDensity>
 			<gravitationalMultiplier>90</gravitationalMultiplier>
-			<orbitalDistance>72</orbitalDistance>
+			<orbitalDistance>90</orbitalDistance>
 			<rotationalPeriod>2784000</rotationalPeriod>
         </planet>
 		<planet name="Earth" DIMID="0" dimMapping="">
@@ -60,7 +61,7 @@
         </planet>
         <planet name="Ceres" DIMID="1006">
             <skyColor>0.2,0.2,0.2</skyColor>
-			<atmosphereDensity>30</atmosphereDensity>
+			<atmosphereDensity>0</atmosphereDensity>
 			<orbitalDistance>110</orbitalDistance>
 			<gravitationalMultiplier>20</gravitationalMultiplier>
 			<rotationalPeriod>8880</rotationalPeriod>
@@ -100,7 +101,7 @@
         </planet>
 		<planet name="Saturn" DIMID="1012">
             <GasGiant>true</GasGiant>
-			<orbitalDistance>130</orbitalDistance>
+			<orbitalDistance>135</orbitalDistance>
 			<rotationalPeriod>10600</rotationalPeriod>
 			<planet name="Rhea" DIMID="1013">
 				<atmosphereDensity>0</atmosphereDensity>
@@ -132,7 +133,7 @@
 			<skyColor>0,0.9,1</skyColor>
 			<fogColor>0.9,0.9,0.9</fogColor>
 			<atmosphereDensity>10</atmosphereDensity>
-			<orbitalDistance>150</orbitalDistance>
+			<orbitalDistance>145</orbitalDistance>
 			<gravitationalMultiplier>89</gravitationalMultiplier>
 			<rotationalPeriod>17250</rotationalPeriod>
 			<planet name="Titania" DIMID="1017">
@@ -157,7 +158,7 @@
             <skyColor>0,0.5,1</skyColor>
 			<GasGiant>true</GasGiant>
 			<atmosphereDensity>0</atmosphereDensity>
-			<orbitalDistance>180</orbitalDistance>
+			<orbitalDistance>175</orbitalDistance>
 			<gravitationalMultiplier>110</gravitationalMultiplier>
 			<rotationalPeriod>16100</rotationalPeriod>
 			<planet name="Triton" DIMID="1020">
@@ -170,18 +171,10 @@
         </planet>
         <planet name="Pluto" DIMID="1021">
 			<atmosphereDensity>0</atmosphereDensity>
-			<orbitalDistance>190</orbitalDistance>
-			<gravitationalMultiplier>20</gravitationalMultiplier>
-			<rotationalPeriod>153000</rotationalPeriod>
-			<planet name="Charon" DIMID="1022">
-            </planet>
-        </planet>
-		<planet name="Eris" DIMID="1023">
-			<atmosphereDensity>0</atmosphereDensity>
 			<orbitalDistance>200</orbitalDistance>
 			<gravitationalMultiplier>20</gravitationalMultiplier>
-			<rotationalPeriod>25900</rotationalPeriod>
-		</planet>
+			<rotationalPeriod>153000</rotationalPeriod>
+        </planet>
     </star>
 	<star name="Alpha Centauri" temp="40" x="-20" y="-10" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Melmac" DIMID="1100">
@@ -220,22 +213,15 @@
 			<orbitalPhi>108</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>	
         </planet>
-		<planet name="Miranda" DIMID="1104">
+	</star>
+	<star name="Sirius" temp="100" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
+		<planet name="Tatooine" DIMID="1107">
 			<skyColor>0,0,1</skyColor>
-			<fogColor>0,0,1</fogColor>
-			<atmosphereDensity>100</atmosphereDensity>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>200</orbitalDistance>
-			<orbitalPhi>144</orbitalPhi>
-			<rotationalPeriod>12000</rotationalPeriod>
-        </planet>
-		<planet name="Gallifrey" DIMID="1105">
-			<skyColor>0.8,0.3,0</skyColor>
-			<fogColor>0.8,0.3,0</fogColor>
-			<atmosphereDensity>180</atmosphereDensity>
-			<gravitationalMultiplier>110</gravitationalMultiplier>
-			<orbitalDistance>50</orbitalDistance>
-			<orbitalPhi>180</orbitalPhi>
+			<fogColor>0.3,0.3,1</fogColor>
+			<atmosphereDensity>200</atmosphereDensity>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>60</orbitalDistance>
+			<orbitalPhi>252</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
 		<planet name="Krypton" DIMID="1106">
@@ -243,57 +229,68 @@
 			<fogColor>0.8,0,0</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
 			<gravitationalMultiplier>90</gravitationalMultiplier>
-			<orbitalDistance>190</orbitalDistance>
+			<orbitalDistance>95</orbitalDistance>
 			<orbitalPhi>216</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-		<planet name="Tatooine" DIMID="1107">
+		<planet name="Miranda" DIMID="1104">
 			<skyColor>0,0,1</skyColor>
-			<fogColor>0.3,0.3,1</fogColor>
-			<atmosphereDensity>200</atmosphereDensity>
-			<gravitationalMultiplier>90</gravitationalMultiplier>
-			<orbitalDistance>40</orbitalDistance>
-			<orbitalPhi>252</orbitalPhi>
+			<fogColor>0,0,1</fogColor>
+			<atmosphereDensity>100</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>165</orbitalDistance>
+			<orbitalPhi>144</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-		<planet name="Cybertron" DIMID="1108">
+	</star>
+	<star name="RX J1131-1231" temp="0" x="90" y="90" numPlanets="0" numGasGiants="0" blackHole="true">
+		<planet name="Spatial Anomaly" DIMID="1105">
 			<skyColor>0,0,0</skyColor>
 			<fogColor>0,0,0</fogColor>
-			<atmosphereDensity>0</atmosphereDensity>
-			<gravitationalMultiplier>50</gravitationalMultiplier>
-			<orbitalDistance>190</orbitalDistance>
+			<atmosphereDensity>200</atmosphereDensity>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>5</orbitalDistance>
+			<orbitalPhi>180</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<spawnable weight="1" groupMin="1" groupMax="5">minecraft:villager</spawnable>
+			<!-->PLEASE ADD TOUGH MOBS HERE<!-->
+        </planet>
+	</star>
+	<star name="Canopus" temp="70" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
+		<planet name="Cybertron" DIMID="1108">
+			<skyColor>0.82,0.15,0</skyColor>
+			<fogColor>0.82,0.15,0</fogColor>
+			<atmosphereDensity>180</atmosphereDensity>
+			<gravitationalMultiplier>105</gravitationalMultiplier>
+			<orbitalDistance>20</orbitalDistance>
 			<orbitalPhi>288</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
+			<biomeIds>biomesoplenty:volcanic_island</biomeIds>
         </planet>
-		<planet name="LV-426" DIMID="1109">
+	</star>
+	<star name="Arcturus" temp="30" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
+	<!-->
+	This small asteroid plantoid should give some valuable materials.
+	<!-->
+		<planet name="AB-426" DIMID="1109">
 			<skyColor>0,0,0</skyColor>
 			<fogColor>0,0,0.5</fogColor>
 			<atmosphereDensity>0</atmosphereDensity>
-			<gravitationalMultiplier>86</gravitationalMultiplier>
-			<orbitalDistance>170</orbitalDistance>
+			<gravitationalMultiplier>11</gravitationalMultiplier>
+			<orbitalDistance>8</orbitalDistance>
 			<orbitalPhi>324</orbitalPhi>
 			<rotationalPeriod>1000</rotationalPeriod>
         </planet>
-		<planet name="Antar" DIMID="1110">
+	</star>
+	<star name="Antares" temp="5" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
+		<planet name="Antar Proxima" DIMID="1110">
 			<skyColor>0,0,1</skyColor>
 			<fogColor>0.2,0,1</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>75</orbitalDistance>
+			<orbitalDistance>10</orbitalDistance>
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-	</star>
-	<star name="Sirius" temp="95" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
-	</star>
-	<star name="Rigel" temp="100" x="70" y="-70" numPlanets="0" numGasGiants="0" blackHole="false">
-	</star>
-	<star name="RX J1131-1231" temp="0" x="90" y="90" numPlanets="0" numGasGiants="0" blackHole="true">
-	</star>
-	<star name="Canopus" temp="70" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
-	</star>
-	<star name="Arcturus" temp="30" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
-	</star>
-	<star name="Antares" temp="5" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
 	</star>
 </galaxy>
