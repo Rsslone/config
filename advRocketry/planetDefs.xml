@@ -63,7 +63,7 @@
             <skyColor>0.2,0.2,0.2</skyColor>
 			<atmosphereDensity>0</atmosphereDensity>
 			<orbitalDistance>110</orbitalDistance>
-			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<gravitationalMultiplier>15</gravitationalMultiplier>
 			<rotationalPeriod>8880</rotationalPeriod>
         </planet>
 		<planet name="Jupiter" DIMID="1007">
