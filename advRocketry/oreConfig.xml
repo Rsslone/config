@@ -1,2 +1,15 @@
 <OreConfig>
+<!--DEFAULT ORES FOR PRESSURE ONLY-->
+ <oreGen pressure="0">
+  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+ </oreGen>
+  <oreGen pressure="1">
+  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+ </oreGen>
+  <oreGen pressure="2">
+  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+ </oreGen>
+  <oreGen pressure="3">
+  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+ </oreGen>
 </OreConfig>
