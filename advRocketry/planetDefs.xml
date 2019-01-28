@@ -2,7 +2,7 @@
     <star name="Sol" temp="50" x="0" y="0" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Mercury" DIMID="1001">
             <skyColor>0.7,0.7,0.7</skyColor>
-			<fogColor>0.74,0.74,0.74</fogcolor>
+			<fogColor>0.74,0.74,0.74</fogColor>
 			<atmosphereDensity>20</atmosphereDensity>
 			<gravitationalMultiplier>38</gravitationalMultiplier>
 			<orbitalDistance>80</orbitalDistance>
@@ -223,7 +223,7 @@
 			<rotationalPeriod>12000</rotationalPeriod>	
         </planet>
 	</star>
-	<star name="Sirius" temp="100" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
+	<star name="Sirius" temp="900" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Tatooine" DIMID="1107">
 			<skyColor>0,0,1</skyColor>
 			<fogColor>0.3,0.3,1</fogColor>
@@ -274,7 +274,7 @@
 			<!-->PLEASE ADD TOUGH MOBS HERE<!-->
         </planet>
 	</star>
-	<star name="Canopus" temp="70" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
+	<star name="Canopus" temp="80" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Cybertron" DIMID="1108">
 			<skyColor>0.82,0.15,0</skyColor>
 			<fogColor>0.82,0.15,0</fogColor>
@@ -295,7 +295,7 @@
 			<rotationalPeriod>24000</rotationalPeriod>
         </planet>
 	</star>
-	<star name="Arcturus" temp="30" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
+	<star name="Arcturus" temp="40" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
 	<!-->
 	This small asteroid plantoid should give some valuable materials.
 	<!-->
@@ -303,15 +303,15 @@
 			<skyColor>0,0,0</skyColor>
 			<fogColor>0,0,0.5</fogColor>
 			<atmosphereDensity>0</atmosphereDensity>
-			<gravitationalMultiplier>11</gravitationalMultiplier>
+			<gravitationalMultiplier>9</gravitationalMultiplier>
 			<orbitalDistance>8</orbitalDistance>
 			<orbitalPhi>324</orbitalPhi>
-			<rotationalPeriod>1000</rotationalPeriod>
+			<rotationalPeriod>5000</rotationalPeriod>
         </planet>
 	</star>
-	<star name="Antares" temp="5" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
+	<star name="Antares" temp="30" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Antar Proxima" DIMID="1110">
-			<skyColor>0,0,1</skyColor>
+			<skyColor>1,0.62,0.4</skyColor>
 			<fogColor>0.2,0,1</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
