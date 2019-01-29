@@ -226,10 +226,10 @@
 	<star name="Sirius" temp="900" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
 		<planet name="Tatooine" DIMID="1107">
 			<skyColor>0,0,1</skyColor>
-			<fogColor>0.3,0.3,1</fogColor>
-			<atmosphereDensity>200</atmosphereDensity>
+			<fogColor>0.6,0.6,0.5</fogColor>
+			<atmosphereDensity>185</atmosphereDensity>
 			<gravitationalMultiplier>85</gravitationalMultiplier>
-			<orbitalDistance>60</orbitalDistance>
+			<orbitalDistance>40</orbitalDistance>
 			<orbitalPhi>252</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
