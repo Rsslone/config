@@ -1,15 +1,250 @@
 <OreConfig>
-<!--DEFAULT ORES FOR PRESSURE ONLY-->
- <oreGen pressure="0">
-  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+<!--DEFAULT ORES FOR PRESSURE!-->
+  <oreGen pressure="0">
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="80" clumpSize="16" chancePerChunk="16" />
+  <ore block="minecraft:redstone_ore" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="8" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="30" clumpSize="10" chancePerChunk="9" />
+  <ore block="minecraft:emerald_ore" minHeight="3" maxHeight="20" clumpSize="5" chancePerChunk="4" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="8" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="10" maxHeight="50" clumpSize="10" chancePerChunk="7" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="10" maxHeight="40" clumpSize="6" chancePerChunk="4" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="6" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="4" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="4" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="4" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="8" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="4" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="5" />
+	<!--DILITHIUM-->
+  <ore block="libvulpes:ore0" minHeight="3" maxHeight="20" clumpSize="8" chancePerChunk="2" />
+  <ore block="mekanism:oreblock" minHeight="20" maxHeight="70" clumpSize="16" chancePerChunk="8" />
+  <ore block="draconicevolution:draconium_ore" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="1" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="60" clumpSize="16" chancePerChunk="5" />
+  <ore block="appliedenergistics2:charged_quartz_ore" minHeight="20" maxHeight="60" clumpSize="10" chancePerChunk="2" />
+  <ore block="appliedenergistics2:quartz_ore" minHeight="20" maxHeight="70" clumpSize="10" chancePerChunk="5" />
+  <ore block="minecraft:diamond_ore" minHeight="3" maxHeight="15" clumpSize="8" chancePerChunk="5" />
+  <ore block="minecraft:coal_ore" minHeight="20" maxHeight="50" clumpSize="20" chancePerChunk="12" />
+  <ore block="minecraft:lapis_ore" minHeight="5" maxHeight="20" clumpSize="6" chancePerChunk="5" />
  </oreGen>
   <oreGen pressure="1">
-  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="80" clumpSize="16" chancePerChunk="8" />
+  <ore block="minecraft:redstone_ore" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="4" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="30" clumpSize="10" chancePerChunk="4" />
+  <ore block="minecraft:emerald_ore" minHeight="3" maxHeight="20" clumpSize="5" chancePerChunk="2" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="80" clumpSize="10" chancePerChunk="6" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="4" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="10" maxHeight="50" clumpSize="10" chancePerChunk="4" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="10" maxHeight="40" clumpSize="6" chancePerChunk="2" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="3" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="2" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="2" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="2" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="2" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="2" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="4" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="2" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="2" />
+	<!--DILITHIUM-->
+  <ore block="libvulpes:ore0" minHeight="3" maxHeight="20" clumpSize="8" chancePerChunk="1" />
+  <ore block="mekanism:oreblock" minHeight="20" maxHeight="70" clumpSize="16" chancePerChunk="4" />
+  <ore block="draconicevolution:draconium_ore" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="1" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="60" clumpSize="16" chancePerChunk="2" />
+  <ore block="appliedenergistics2:charged_quartz_ore" minHeight="20" maxHeight="60" clumpSize="10" chancePerChunk="1" />
+  <ore block="appliedenergistics2:quartz_ore" minHeight="20" maxHeight="70" clumpSize="10" chancePerChunk="4" />
+  <ore block="minecraft:diamond_ore" minHeight="3" maxHeight="15" clumpSize="8" chancePerChunk="1" />
  </oreGen>
   <oreGen pressure="2">
-  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="80" clumpSize="16" chancePerChunk="6" />
+  <ore block="minecraft:redstone_ore" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="2" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="30" clumpSize="10" chancePerChunk="5" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="10" maxHeight="50" clumpSize="10" chancePerChunk="2" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="10" maxHeight="40" clumpSize="6" chancePerChunk="12" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="8" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="5" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="8" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="2" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="2" />
+	<!--DILITHIUM-->
+  <ore block="libvulpes:ore0" minHeight="3" maxHeight="20" clumpSize="8" chancePerChunk="2" />
+  <ore block="mekanism:oreblock" minHeight="20" maxHeight="70" clumpSize="16" chancePerChunk="4" />
+  <ore block="draconicevolution:draconium_ore" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="1" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="60" clumpSize="16" chancePerChunk="5" />
+  <ore block="appliedenergistics2:charged_quartz_ore" minHeight="20" maxHeight="60" clumpSize="10" chancePerChunk="2" />
+  <ore block="appliedenergistics2:quartz_ore" minHeight="20" maxHeight="70" clumpSize="10" chancePerChunk="5" />
  </oreGen>
   <oreGen pressure="3">
-  <ore block="minecraft:iron_block" minHeight="20" maxHeight="80" clumpSize="32" chancePerChunk="64" />
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="30" clumpSize="10" chancePerChunk="16" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="20" clumpSize="5" chancePerChunk="9" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="40" clumpSize="16" chancePerChunk="12" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="20" maxHeight="40" clumpSize="16" chancePerChunk="8" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="10" maxHeight="20" clumpSize="5" chancePerChunk="7" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="10" maxHeight="15" clumpSize="10" chancePerChunk="4" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="10" maxHeight="20" clumpSize="4" chancePerChunk="6" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="10" maxHeight="30" clumpSize="6" chancePerChunk="4" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="10" maxHeight="30" clumpSize="6" chancePerChunk="4" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="10" maxHeight="30" clumpSize="6" chancePerChunk="5" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="10" maxHeight="30" clumpSize="6" chancePerChunk="5" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="10" maxHeight="30" clumpSize="6" chancePerChunk="4" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="20" maxHeight="40" clumpSize="12" chancePerChunk="12" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="3" maxHeight="30" clumpSize="6" chancePerChunk="4" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="3" maxHeight="30" clumpSize="4" chancePerChunk="5" />
+  <ore block="mekanism:oreblock" minHeight="20" maxHeight="50" clumpSize="14" chancePerChunk="8" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="40" clumpSize="16" chancePerChunk="5" />
+  <ore block="appliedenergistics2:quartz_ore" minHeight="20" maxHeight="50" clumpSize="16" chancePerChunk="5" />
+ </oreGen>
+ <!--High Pressure, High Temp-->
+  <oreGen pressure="3" temp="0">
+  <ore block="minecraft:iron_ore" minHeight="3" maxHeight="80" clumpSize="8" chancePerChunk="5" />
+  <ore block="minecraft:redstone_ore" minHeight="3" maxHeight="60" clumpSize="8" chancePerChunk="4" />
+  <ore block="minecraft:gold_ore" minHeight="30" maxHeight="60" clumpSize="10" chancePerChunk="12" />
+  <ore block="minecraft:emerald_ore" minHeight="30" maxHeight="60" clumpSize="5" chancePerChunk="5" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="40" maxHeight="80" clumpSize="6" chancePerChunk="6" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="50" clumpSize="8" chancePerChunk="6" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="30" maxHeight="70" clumpSize="10" chancePerChunk="6" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="30" maxHeight="70" clumpSize="8" chancePerChunk="6" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="30" maxHeight="70" clumpSize="8" chancePerChunk="6" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="30" maxHeight="70" clumpSize="8" chancePerChunk="6" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="30" maxHeight="70" clumpSize="8" chancePerChunk="6" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="20" maxHeight="40" clumpSize="8" chancePerChunk="5" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="6" />
+	<!--DILITHIUM-->
+  <ore block="libvulpes:ore0" minHeight="25" maxHeight="40" clumpSize="12" chancePerChunk="6" />
+  <ore block="minecraft:lava" minHeight="2" maxHeight="30" clumpSize="32" chancePerChunk="20" />
+  <ore block="draconicevolution:draconium_ore" minHeight="20" maxHeight="40" clumpSize="10" chancePerChunk="5" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="60" clumpSize="16" chancePerChunk="5" />
+  <ore block="appliedenergistics2:charged_quartz_ore" minHeight="20" maxHeight="60" clumpSize="10" chancePerChunk="8" />
+  <ore block="minecraft:diamond_ore" minHeight="30" maxHeight="40" clumpSize="12" chancePerChunk="5" />
+ </oreGen>
+ <!--Low Pressure, Low Temp-->
+  <oreGen pressure="3" temp="5">
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="80" clumpSize="16" chancePerChunk="2" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="10" clumpSize="10" chancePerChunk="3" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="80" clumpSize="10" chancePerChunk="1" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="40" maxHeight="80" clumpSize="12" chancePerChunk="20" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="5" maxHeight="30" clumpSize="5" chancePerChunk="2" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="40" maxHeight="80" clumpSize="6" chancePerChunk="8" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="6" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+ </oreGen>
+ <!--Habitable Range, Healthy Mix-->
+  <oreGen pressure="1" temp="2">
+  <ore block="minecraft:iron_ore" minHeight="20" maxHeight="80" clumpSize="16" chancePerChunk="16" />
+  <ore block="minecraft:redstone_ore" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="8" />
+  <ore block="minecraft:gold_ore" minHeight="3" maxHeight="30" clumpSize="10" chancePerChunk="9" />
+  <ore block="minecraft:emerald_ore" minHeight="3" maxHeight="20" clumpSize="5" chancePerChunk="4" />
+	<!--COPPER-->
+  <ore block="immersiveengineering:ore" minHeight="20" maxHeight="80" clumpSize="10" chancePerChunk="12" />
+	<!--ALUMINIUM-->
+  <ore block="immersiveengineering:ore" meta="1" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="8" />
+	<!--LEAD-->
+  <ore block="immersiveengineering:ore" meta="2" minHeight="10" maxHeight="50" clumpSize="10" chancePerChunk="7" />
+	<!--SILVER-->
+  <ore block="immersiveengineering:ore" meta="3" minHeight="10" maxHeight="40" clumpSize="6" chancePerChunk="4" />
+	<!--NICKEL-->
+  <ore block="immersiveengineering:ore" meta="4" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="6" />
+	<!--URANIUM-->
+  <ore block="nuclearcraft:ore" meta="4" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="4" />
+	<!--MAGNESIUM-->
+  <ore block="nuclearcraft:ore" meta="7" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="4" />
+	<!--LITHIUM-->
+  <ore block="nuclearcraft:ore" meta="6" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--BORON-->
+  <ore block="nuclearcraft:ore" meta="5" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="5" />
+	<!--THORIUM-->
+  <ore block="nuclearcraft:ore" meta="3" minHeight="10" maxHeight="50" clumpSize="8" chancePerChunk="4" />
+	<!--TIN-->
+  <ore block="libvulpes:ore0" meta="5" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="8" />
+	<!--IRIDIUM-->
+  <ore block="libvulpes:ore0" meta="10" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="4" />
+	<!--RUTILE AKA TITANIUM-->
+  <ore block="libvulpes:ore0" meta="8" minHeight="3" maxHeight="40" clumpSize="8" chancePerChunk="5" />
+	<!--DILITHIUM-->
+  <ore block="libvulpes:ore0" minHeight="3" maxHeight="20" clumpSize="8" chancePerChunk="2" />
+  <ore block="mekanism:oreblock" minHeight="20" maxHeight="70" clumpSize="16" chancePerChunk="8" />
+  <ore block="draconicevolution:draconium_ore" minHeight="10" maxHeight="40" clumpSize="10" chancePerChunk="1" />
+  <ore block="thaumcraft:ore_quartz" minHeight="30" maxHeight="60" clumpSize="16" chancePerChunk="5" />
+  <ore block="appliedenergistics2:charged_quartz_ore" minHeight="20" maxHeight="60" clumpSize="10" chancePerChunk="2" />
+  <ore block="appliedenergistics2:quartz_ore" minHeight="20" maxHeight="70" clumpSize="10" chancePerChunk="5" />
+  <ore block="minecraft:diamond_ore" minHeight="3" maxHeight="15" clumpSize="8" chancePerChunk="5" />
+  <ore block="minecraft:coal_ore" minHeight="20" maxHeight="50" clumpSize="20" chancePerChunk="12" />
+  <ore block="minecraft:lapis_ore" minHeight="5" maxHeight="20" clumpSize="6" chancePerChunk="5" />
  </oreGen>
 </OreConfig>
