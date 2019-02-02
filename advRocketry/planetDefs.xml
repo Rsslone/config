@@ -224,7 +224,7 @@
         </planet>
 	</star>
 	<star name="Sirius" temp="900" x="0" y="80" numPlanets="0" numGasGiants="0" blackHole="false">
-		<planet name="Tatooine" DIMID="1107">
+		<planet name="Tatooine" DIMID="1200">
 			<skyColor>0,0,1</skyColor>
 			<fogColor>0.6,0.6,0.5</fogColor>
 			<atmosphereDensity>185</atmosphereDensity>
@@ -242,7 +242,7 @@
 			<orbitalPhi>216</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-		<planet name="Krypton" DIMID="1106">
+		<planet name="Krypton" DIMID="1201">
 			<skyColor>0.8,0,0</skyColor>
 			<fogColor>0.8,0,0</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
@@ -251,7 +251,7 @@
 			<orbitalPhi>216</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-		<planet name="Miranda" DIMID="1104">
+		<planet name="Miranda" DIMID="1202">
 			<skyColor>0,0,1</skyColor>
 			<fogColor>0,0,1</fogColor>
 			<atmosphereDensity>60</atmosphereDensity>
@@ -262,7 +262,7 @@
         </planet>
 	</star>
 	<star name="RX J1131-1231" temp="0" x="90" y="90" numPlanets="0" numGasGiants="0" blackHole="true">
-		<planet name="Spatial Anomaly" DIMID="1105">
+		<planet name="Spatial Anomaly" DIMID="1300">
 			<skyColor>0,0,0</skyColor>
 			<fogColor>0,0,0</fogColor>
 			<atmosphereDensity>200</atmosphereDensity>
@@ -275,7 +275,7 @@
         </planet>
 	</star>
 	<star name="Canopus" temp="80" x="-50" y="40" numPlanets="0" numGasGiants="0" blackHole="false">
-		<planet name="Cybertron" DIMID="1108">
+		<planet name="Cybertron" DIMID="1400">
 			<skyColor>0.82,0.15,0</skyColor>
 			<fogColor>0.82,0.15,0</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
@@ -299,7 +299,7 @@
 	<!-->
 	This small asteroid plantoid should give some valuable materials.
 	<!-->
-		<planet name="AB-426" DIMID="1109">
+		<planet name="AB-426" DIMID="1500">
 			<skyColor>0,0,0</skyColor>
 			<fogColor>0,0,0.5</fogColor>
 			<atmosphereDensity>0</atmosphereDensity>
@@ -310,7 +310,7 @@
         </planet>
 	</star>
 	<star name="Antares" temp="30" x="-40" y="-80" numPlanets="0" numGasGiants="0" blackHole="false">
-		<planet name="Antar Proxima" DIMID="1110">
+		<planet name="Antar Proxima" DIMID="1600">
 			<skyColor>1,0.62,0.4</skyColor>
 			<fogColor>0.2,0,1</fogColor>
 			<atmosphereDensity>180</atmosphereDensity>
