@@ -44,6 +44,7 @@
 			<orbitalDistance>105</orbitalDistance>
 			<gravitationalMultiplier>38</gravitationalMultiplier>
 			<rotationalPeriod>24000</rotationalPeriod>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
             <planet name="Phobos" DIMID="1004">
 				<atmosphereDensity>0</atmosphereDensity>
 				<gravitationalMultiplier>30</gravitationalMultiplier>
