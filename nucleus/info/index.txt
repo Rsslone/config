@@ -1,6 +1,0 @@
-#URL and Command links
-
-* &a[Discord Invite](http://discord.gg/aaRrpyb)
-* &b[Rules](/rules)
-* &c[About](/info about)
-* &a[Nutrition](/info nutrition)

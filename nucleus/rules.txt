@@ -1,5 +1,5 @@
-&a1: Don't make crazy builds that lag the server. USE LAGGOGGLES!
-&a2: Don't abuse broken stuff. Report it with /ticket IMMEDIATELY.
-&a3: Absolutely no external cheats or clientside mods that give you advantages.
-&a4: No trolling others that don't enjoy it. Use /helpop if you need help.
-&a5: More useful information at /spawn or /info
+&a1:&r Don't make crazy nonsense builds that lag the server. &2USE LAGGOGGLES!
+&a2:&r If something is broken report it with /ticket.
+&a3:&r Absolutely no external cheats or clientside mods that give you advantages.
+&a4:&r Don't act like children. PvP is okay. Harassment is not.
+&a5:&r Griefing protected lands in any way will result in a global perma ban on all further TT versions. (No Exceptions)

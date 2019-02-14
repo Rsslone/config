@@ -1,0 +1,8 @@
+#Describes the Thirst Mechanic
+&2Thirst &rcan be filled by either drinking waters, juices, or milks. Raw water is impure, to avoid the impure water, you must purify the water with a Charcoal Filter, boil it in a furnace, or with a rain collector.
+
+It's recommended to get a canteen as soon as you can but the easiest way to restore thirst is by drinking straight from a water source. This can be done by sneaking and right clicking on a water block.
+
+You can also make various juices with purified water, sugar, and various fruits/vegetables. They restore more thirst than purified water, so it's a great option if you plan on travelling or won't be near water for a while.
+
+[Read More](https://github.com/Glitchfiend/ToughAsNails/wiki)
