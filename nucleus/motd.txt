@@ -1,4 +1,5 @@
-&f You're running &aTommyTek &cv0.5.0
+&f You're running &aTommyTek &cv0.5.2
 &b-Changes-
-New mod lineup and too many changes to count.
-If you have any issues or want a change please do /ticket
+Add the singularity for quarry to the quests as a free item. Only one per person.
+Disable DynamicSurroundings Animania features (Floating things on mobs)
+Decrease HungerOverhaul saturation divider
