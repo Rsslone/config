@@ -14,13 +14,22 @@
     afktime=0
     username=pokemonjr21
 }
+"177c88b9-38d4-4539-ab73-020dc2d0e6e7" {
+    activetime=10129
+    afktime=66
+    milestones {
+        money=7315
+    }
+    username=SerpantineSmith
+}
 "19f4915b-2af9-44a8-ba84-26f24aecab84" {
-    activetime=450906
-    afktime=22844
+    activetime=522054
+    afktime=24830
     milestones {
         exprt-promote=360049
         mem-promote=18058
-        money=445016
+        mod=502053
+        money=517905
         reg-promote=172939
     }
     username="Sketch_PSi"
@@ -35,9 +44,10 @@
     username="ItsDelta_"
 }
 "21e06895-1eb9-41ad-90c3-9e5145ebe0cf" {
-    activetime=17407
-    afktime=2035
+    activetime=19666
+    afktime=3510
     milestones {
+        mem-promote=18055
         money=14807
     }
     username=Promsaka
@@ -48,12 +58,12 @@
     username=mechman212
 }
 "22a5db8d-91e8-4a86-bba6-09b469346a4d" {
-    activetime=407765
-    afktime=13933
+    activetime=471627
+    afktime=15000
     milestones {
         exprt-promote=360023
         mem-promote=18096
-        money=401576
+        money=467038
         reg-promote=172944
     }
     username=MrCombatGiraffe
@@ -110,6 +120,11 @@
     }
     username=mysticpancake48
 }
+"3a14af36-e3c0-49d3-bbf6-21c8ec059717" {
+    activetime=2747
+    afktime=0
+    username=Fwiks
+}
 "3a49c2cc-4078-490a-afdb-9240fab9ef66" {
     activetime=29115
     afktime=0
@@ -118,6 +133,15 @@
         money=29069
     }
     username="The_Wiz_"
+}
+"3b0d8658-bca6-4692-a120-fcbe74e37b6d" {
+    activetime=29222
+    afktime=1391
+    milestones {
+        mem-promote=18030
+        money=29093
+    }
+    username=kamobro10
 }
 "401d34ab-5590-4516-8eed-f577f1c154be" {
     activetime=20645
@@ -128,13 +152,22 @@
     }
     username=SilverBullet75
 }
+"47f729f2-019a-4a0b-b40d-77b864a81def" {
+    activetime=43078
+    afktime=1658
+    milestones {
+        mem-promote=18079
+        money=36286
+    }
+    username=xTotallyRed
+}
 "4a296938-5e6c-4de7-a16b-023787f2201f" {
-    activetime=598503
-    afktime=6413
+    activetime=650394
+    afktime=8132
     milestones {
         exprt-promote=360097
         mem-promote=18040
-        money=596840
+        money=647717
         reg-promote=172924
     }
     username=omegakitt
@@ -149,22 +182,22 @@
     username=M6yo
 }
 "4d9209bf-ef10-4499-905c-ea1ca7e19d9e" {
-    activetime=177909
-    afktime=6522
+    activetime=198640
+    afktime=6832
     milestones {
         mem-promote=18015
-        money=174975
+        money=196750
         reg-promote=172836
     }
     username="Ne_uh_oh"
 }
 "56d8cc34-aa08-48d6-aa4a-b3e4f0aaf4e9" {
-    activetime=988883
-    afktime=90499
+    activetime=1065456
+    afktime=94633
     milestones {
         exprt-promote=360020
         mem-promote=18033
-        money=988494
+        money=1061195
         reg-promote=172826
     }
     username=BraydenPiag
@@ -246,7 +279,7 @@
     username=Minecraftmann35
 }
 "880f21fc-2283-4948-bee0-b143af20c749" {
-    activetime=13475
+    activetime=14540
     afktime=428
     milestones {
         money=7260
@@ -257,6 +290,15 @@
     activetime=193
     afktime=0
     username=Fantemannen
+}
+"90f275fa-11c6-49ff-8100-03abae251b08" {
+    activetime=32991
+    afktime=410
+    milestones {
+        mem-promote=18087
+        money=29100
+    }
+    username=bababooie98
 }
 "9560e071-355b-419a-a1be-62114582f844" {
     activetime=262636
@@ -272,6 +314,11 @@
     activetime=62
     afktime=0
     username=yorick1602
+}
+"9bf4589b-a40c-4726-9e43-20ae2ecb141a" {
+    activetime=573
+    afktime=0
+    username=mrkhubkayks
 }
 "9f44119d-0a9d-4b36-8368-9af8290f6b96" {
     activetime=211
@@ -314,14 +361,14 @@ b0e80a19-1668-4416-acec-3e95ac94883d {
     username=LilSus
 }
 bc6f1f5f-8f67-4772-9fbf-b1ae3a0903a3 {
-    activetime=420776
-    afktime=165500
+    activetime=456266
+    afktime=168410
     milestones {
         cookies=111395
         exprt-promote=360141
         mem-promote=111839
-        mod=419271
-        money=419271
+        mod=441218
+        money=455781
         one-hour=3677
         reg-promote=172909
     }
@@ -331,6 +378,15 @@ bce13e34-d85e-4977-bcfa-673795600ff8 {
     activetime=152
     afktime=0
     username=BeaAlexandra
+}
+c7652f5f-98eb-4607-947c-15c89103a9e6 {
+    activetime=29487
+    afktime=580
+    milestones {
+        mem-promote=18088
+        money=29113
+    }
+    username=Bubsyy
 }
 ce83df1c-19a4-4b7a-8d16-a8be614b2c87 {
     activetime=6258
@@ -348,11 +404,11 @@ dae99c1a-a094-4160-8a56-893250b3590c {
     username=xMis
 }
 e55e555b-b25c-431a-adbe-9759153b3c15 {
-    activetime=30718
-    afktime=3253
+    activetime=70077
+    afktime=6042
     milestones {
         mem-promote=18012
-        money=25556
+        money=69202
     }
     username=Corbris
 }
@@ -360,6 +416,11 @@ e7df5ed2-f8aa-4daa-8a9a-98d72d91b990 {
     activetime=2834
     afktime=22
     username=Zo0ma
+}
+e8ef78fe-52ac-4ef0-9e2f-dcacb649db6c {
+    activetime=5467
+    afktime=0
+    username=KurisutaruKoneko
 }
 e9f0ba7f-6cbd-41c8-9780-234de171b1f7 {
     activetime=544808
@@ -390,13 +451,22 @@ ecd1e566-e45d-4cab-9e4f-523291d2fb17 {
     afktime=0
     username="_Villan"
 }
+ee69d5b5-55e4-4547-8062-2f41415dc7ec {
+    activetime=20657
+    afktime=0
+    milestones {
+        mem-promote=18055
+        money=14542
+    }
+    username=Newzzy
+}
 f0c47380-e30b-456e-8196-3c53a133d7aa {
-    activetime=454887
-    afktime=9925
+    activetime=481991
+    afktime=10625
     milestones {
         exprt-promote=360038
         mem-promote=18046
-        money=449009
+        money=478151
         reg-promote=172869
     }
     username=DashingYang
@@ -426,14 +496,15 @@ fabf06fc-7d98-4d41-9be9-dc0b1e51b562 {
     username=Patrick0909b
 }
 fb817c3b-ff91-4685-9fc6-8753eaefe3af {
-    activetime=132786
-    afktime=12433
+    activetime=184797
+    afktime=17075
     milestones {
         cookies=13693
         mem-promote=18024
-        mod=131564
-        money=131564
+        mod=175254
+        money=182576
         one-hour=3723
+        reg-promote=172860
     }
     username=Rsslone
 }
