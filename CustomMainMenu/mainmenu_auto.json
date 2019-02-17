@@ -2,7 +2,7 @@
     "images":
     {
 	
-		"black":
+		"back":
         {
             "image" : "mainmenu:textures/bg_menu.png",
             "posX" : 50,
@@ -15,10 +15,10 @@
         {
             "image" : "mainmenu:textures/logo.png",
             "posX" : 51,
-            "posY" : 0,
+            "posY" : -100,
             "width" : 123,
-            "height" : 63,
-            "alignment" : "top_left"
+            "height" : 62,
+            "alignment" : "left_center"
         }
 	
 	},
@@ -29,10 +29,10 @@
         {
             "text" : "Singleplayer",
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : -60,
+            "posY" : -30,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -49,10 +49,10 @@
         {
             "text" : "Multiplayer",			
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : -40,
+            "posY" : -10,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -69,10 +69,10 @@
         {
             "text" : "Options",
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : -20,
+            "posY" : 10,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -84,34 +84,15 @@
                 "gui" : "options"
             }
         },
-		        
-		"language":
-        {
-            "text" : "Language",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 51,
-            "posY" : 0,
-            "width" : 123,
-            "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,			
-			"alignment" : "left_center",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
                     
         "quit":
         {
             "text" : "Quit",
+			"normalTextColor" : 12303291,
 			"hoverTextColor" : 14483456,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : 20,
+            "posY" : 30,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -130,7 +111,7 @@
 			"texture" : "mainmenu:textures/btn.png",
 			"alignment" : "left_center",
             "posX" : 51,
-            "posY" : 80,
+            "posY" : 100,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -151,7 +132,7 @@
 			"texture" : "mainmenu:textures/btn.png",
 			"alignment" : "left_center",
             "posX" : 51,
-            "posY" : 60,
+            "posY" : 80,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
@@ -171,7 +152,7 @@
 			"normalTextColor" : 6710886,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : 100,
+            "posY" : 120,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,

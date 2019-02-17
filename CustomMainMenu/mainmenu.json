@@ -2,7 +2,7 @@
     "images":
     {
 	
-		"black":
+		"back":
         {
             "image" : "mainmenu:textures/bg_menu.png",
             "posX" : 50,
@@ -15,7 +15,7 @@
         {
             "image" : "mainmenu:textures/logo.png",
             "posX" : 51,
-            "posY" : -125,
+            "posY" : -100,
             "width" : 123,
             "height" : 62,
             "alignment" : "left_center"
@@ -29,7 +29,7 @@
         {
             "text" : "Singleplayer",
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
             "posY" : -30,
@@ -49,7 +49,7 @@
         {
             "text" : "Multiplayer",			
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
             "posY" : -10,
@@ -69,7 +69,7 @@
         {
             "text" : "Options",
 			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
+			"hoverTextColor" : 16497685,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
             "posY" : 10,
@@ -84,34 +84,15 @@
                 "gui" : "options"
             }
         },
-		        
-		"language":
-        {
-            "text" : "Language",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 1488150,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 51,
-            "posY" : 30,
-            "width" : 123,
-            "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,			
-			"alignment" : "left_center",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
                     
         "quit":
         {
             "text" : "Quit",
+			"normalTextColor" : 12303291,
 			"hoverTextColor" : 14483456,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 51,
-            "posY" : 50,
+            "posY" : 30,
             "width" : 123,
             "height" : 20,
 			imageWidth : 100,
