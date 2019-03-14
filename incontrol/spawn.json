@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "hostile": true,
+    "dimension": 0,
+    "mincount": "200",
+    "result": "deny"
+  },
+  {
+    "passive": true,
+    "dimension": 0,
+    "mincount": "100",
+    "result": "deny"
+  }
+]

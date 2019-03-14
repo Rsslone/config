@@ -514,7 +514,115 @@
   },
   {
     "item": {
-      "name": "harvestcraft:chocolatemilkshakeitem",
+      "name": "harvestcraft:bubbleteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:coconutsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapefruitsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:persimmonsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cranberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:sweetteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:plumsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pearsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:figsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapesmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapesodaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:lemonlimesodaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cherryslushieitem",
       "metadata": 0
     },
     "thirst": 6,
@@ -524,6 +632,105 @@
   {
     "item": {
       "name": "harvestcraft:bananamilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:greenteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:orangesodaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:rootbeersodaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:gooseberrymilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:earlgreyteaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:gooseberrysmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberrysodaitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:apricotsmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:applesmoothieitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:durianmilkshakeitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:chocolatemilkshakeitem",
       "metadata": 0
     },
     "thirst": 6,

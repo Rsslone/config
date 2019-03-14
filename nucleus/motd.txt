@@ -1,9 +1,5 @@
-&f You're running &aTommyTek &cv0.5.5
-&b-Changes-
-Incrased growth rate for sugarcane and Cactus
-Decreased fruit nutrition need rate
-Increased protein nutrition need rate
-&b-Previous-
-Updated Coremods to Latest
-Updated Main Menu Textures and Alignments
-Added Mekanism Generators
+&f You're running &aTommyTek &cv0.5.16
+&b-Version Changes-
+Updated Coremods
+Test Fix for dying outside a worlds border
+Added EnderIO

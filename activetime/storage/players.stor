@@ -1,13 +1,22 @@
 "01aa7cc2-4983-4ff3-ae36-500e9aed45e0" {
-    activetime=939535
-    afktime=34305
+    activetime=1024283
+    afktime=42622
     milestones {
         exprt-promote=360076
         mem-promote=18081
-        money=936608
+        money=1023776
         reg-promote=172833
     }
-    username=Syndias
+    username=Synvalen
+}
+"0e424625-d1d6-4b97-93e7-178652c53423" {
+    activetime=32339
+    afktime=2
+    milestones {
+        mem-promote=18102
+        money=29088
+    }
+    username=pinheadzz
 }
 "0e87970c-e5ff-4cb9-8cf5-e0364698f8f6" {
     activetime=1591
@@ -15,21 +24,22 @@
     username=pokemonjr21
 }
 "177c88b9-38d4-4539-ab73-020dc2d0e6e7" {
-    activetime=10129
-    afktime=66
+    activetime=76500
+    afktime=1370
     milestones {
-        money=7315
+        mem-promote=18057
+        money=72721
     }
     username=SerpantineSmith
 }
 "19f4915b-2af9-44a8-ba84-26f24aecab84" {
-    activetime=522054
-    afktime=24830
+    activetime=562019
+    afktime=25863
     milestones {
         exprt-promote=360049
         mem-promote=18058
         mod=502053
-        money=517905
+        money=561446
         reg-promote=172939
     }
     username="Sketch_PSi"
@@ -58,12 +68,12 @@
     username=mechman212
 }
 "22a5db8d-91e8-4a86-bba6-09b469346a4d" {
-    activetime=471627
+    activetime=481388
     afktime=15000
     milestones {
         exprt-promote=360023
         mem-promote=18096
-        money=467038
+        money=474294
         reg-promote=172944
     }
     username=MrCombatGiraffe
@@ -111,11 +121,11 @@
     username=randomguy376
 }
 "37a4c46b-8d15-479b-a99d-ad8ef66c0948" {
-    activetime=178901
-    afktime=14605
+    activetime=193986
+    afktime=14738
     milestones {
         mem-promote=18064
-        money=175355
+        money=189913
         reg-promote=172913
     }
     username=mysticpancake48
@@ -162,12 +172,12 @@
     username=xTotallyRed
 }
 "4a296938-5e6c-4de7-a16b-023787f2201f" {
-    activetime=650394
-    afktime=8132
+    activetime=867931
+    afktime=16468
     milestones {
         exprt-promote=360097
         mem-promote=18040
-        money=647717
+        money=865910
         reg-promote=172924
     }
     username=omegakitt
@@ -182,22 +192,32 @@
     username=M6yo
 }
 "4d9209bf-ef10-4499-905c-ea1ca7e19d9e" {
-    activetime=198640
+    activetime=239460
     afktime=6832
     milestones {
         mem-promote=18015
-        money=196750
+        money=233106
         reg-promote=172836
     }
     username="Ne_uh_oh"
 }
+"4dc74f96-ab07-4dc4-973a-8d18983434a7" {
+    activetime=1012
+    afktime=0
+    username=scoobydoobski69
+}
+"556c8312-b268-4267-8be9-201dba74fd0e" {
+    activetime=2618
+    afktime=807
+    username=Dullahan007
+}
 "56d8cc34-aa08-48d6-aa4a-b3e4f0aaf4e9" {
-    activetime=1065456
-    afktime=94633
+    activetime=1358368
+    afktime=126765
     milestones {
         exprt-promote=360020
         mem-promote=18033
-        money=1061195
+        money=1352197
         reg-promote=172826
     }
     username=BraydenPiag
@@ -206,6 +226,11 @@
     activetime=4413
     afktime=0
     username="Jeffery_Swords_"
+}
+"637b0f2f-a416-4b2b-a57f-ec4f34405cd4" {
+    activetime=415
+    afktime=0
+    username=Smashbooty
 }
 "63e61836-b75a-424d-92f3-332f91344cee" {
     activetime=212128
@@ -218,11 +243,11 @@
     username="King_rewt"
 }
 "6c31fd67-a0a5-4ab1-bb5b-842b651fb989" {
-    activetime=286228
-    afktime=8784
+    activetime=320513
+    afktime=8902
     milestones {
         mem-promote=18048
-        money=285469
+        money=314733
         reg-promote=172852
     }
     username=muller32
@@ -247,6 +272,11 @@
     activetime=1233
     afktime=34
     username=SarabunPSK
+}
+"793734ef-3c72-4721-9023-3bdf31ed1184" {
+    activetime=339
+    afktime=0
+    username=SparkzTwoGaming
 }
 "7957b502-f458-47f2-8f20-ea544901eec3" {
     activetime=841
@@ -278,6 +308,11 @@
     afktime=0
     username=Minecraftmann35
 }
+"868c5e1f-b5df-449c-9d9e-10f261a651f1" {
+    activetime=150
+    afktime=0
+    username="George_GG"
+}
 "880f21fc-2283-4948-bee0-b143af20c749" {
     activetime=14540
     afktime=428
@@ -292,20 +327,20 @@
     username=Fantemannen
 }
 "90f275fa-11c6-49ff-8100-03abae251b08" {
-    activetime=32991
-    afktime=410
+    activetime=98998
+    afktime=4199
     milestones {
         mem-promote=18087
-        money=29100
+        money=94653
     }
     username=bababooie98
 }
 "9560e071-355b-419a-a1be-62114582f844" {
-    activetime=262636
-    afktime=6175
+    activetime=304512
+    afktime=12043
     milestones {
         mem-promote=18022
-        money=258985
+        money=302558
         reg-promote=172886
     }
     username=Nyctomaniac
@@ -342,14 +377,14 @@ a68b85c4-fc36-49fb-8c8f-2e177aabc2a6 {
     username="Dee_S"
 }
 ac21c72a-fdcd-41d0-8a9f-9520c642f090 {
-    activetime=221408
+    activetime=222075
     afktime=27677
     milestones {
         mem-promote=18138
         money=215438
         reg-promote=172805
     }
-    username=xStotes
+    username=Stotessssss
 }
 b0e80a19-1668-4416-acec-3e95ac94883d {
     activetime=70449
@@ -361,8 +396,8 @@ b0e80a19-1668-4416-acec-3e95ac94883d {
     username=LilSus
 }
 bc6f1f5f-8f67-4772-9fbf-b1ae3a0903a3 {
-    activetime=456266
-    afktime=168410
+    activetime=461044
+    afktime=168501
     milestones {
         cookies=111395
         exprt-promote=360141
@@ -380,11 +415,11 @@ bce13e34-d85e-4977-bcfa-673795600ff8 {
     username=BeaAlexandra
 }
 c7652f5f-98eb-4607-947c-15c89103a9e6 {
-    activetime=29487
-    afktime=580
+    activetime=166301
+    afktime=2440
     milestones {
         mem-promote=18088
-        money=29113
+        money=160080
     }
     username=Bubsyy
 }
@@ -392,6 +427,15 @@ ce83df1c-19a4-4b7a-8d16-a8be614b2c87 {
     activetime=6258
     afktime=1391
     username="Funky_Freddy"
+}
+cfb1c53f-e108-4689-8c16-966a9ffe6b82 {
+    activetime=28212
+    afktime=0
+    milestones {
+        mem-promote=18001
+        money=21683
+    }
+    username="Hild_"
 }
 d44fb9c2-21a3-4bcb-a8fc-c6a4c663acc9 {
     activetime=500
@@ -404,33 +448,40 @@ dae99c1a-a094-4160-8a56-893250b3590c {
     username=xMis
 }
 e55e555b-b25c-431a-adbe-9759153b3c15 {
-    activetime=70077
-    afktime=6042
+    activetime=166758
+    afktime=10101
     milestones {
         mem-promote=18012
-        money=69202
+        money=163433
     }
     username=Corbris
 }
 e7df5ed2-f8aa-4daa-8a9a-98d72d91b990 {
-    activetime=2834
+    activetime=8982
     afktime=22
+    milestones {
+        money=7291
+    }
     username=Zo0ma
 }
 e8ef78fe-52ac-4ef0-9e2f-dcacb649db6c {
-    activetime=5467
-    afktime=0
+    activetime=22255
+    afktime=234
+    milestones {
+        mem-promote=18141
+        money=22002
+    }
     username=KurisutaruKoneko
 }
 e9f0ba7f-6cbd-41c8-9780-234de171b1f7 {
-    activetime=544808
-    afktime=6539
+    activetime=626894
+    afktime=7748
     milestones {
         cookies=9252
         exprt-promote=360141
         mem-promote=18081
         mod=540654
-        money=540654
+        money=620809
         one-hour=3600
         reg-promote=172923
     }
@@ -452,32 +503,32 @@ ecd1e566-e45d-4cab-9e4f-523291d2fb17 {
     username="_Villan"
 }
 ee69d5b5-55e4-4547-8062-2f41415dc7ec {
-    activetime=20657
+    activetime=39554
     afktime=0
     milestones {
         mem-promote=18055
-        money=14542
+        money=36373
     }
     username=Newzzy
 }
 f0c47380-e30b-456e-8196-3c53a133d7aa {
-    activetime=481991
-    afktime=10625
+    activetime=507244
+    afktime=11604
     milestones {
         exprt-promote=360038
         mem-promote=18046
-        money=478151
+        money=500148
         reg-promote=172869
     }
     username=DashingYang
 }
 f5b1248f-5c53-451e-9211-518e3ca04912 {
-    activetime=773883
-    afktime=3280
+    activetime=958118
+    afktime=3813
     milestones {
         exprt-promote=360118
         mem-promote=18021
-        money=770247
+        money=952204
         reg-promote=172810
     }
     username=coolprix
@@ -496,13 +547,14 @@ fabf06fc-7d98-4d41-9be9-dc0b1e51b562 {
     username=Patrick0909b
 }
 fb817c3b-ff91-4685-9fc6-8753eaefe3af {
-    activetime=184797
-    afktime=17075
+    activetime=368558
+    afktime=29928
     milestones {
         cookies=13693
+        exprt-promote=360140
         mem-promote=18024
         mod=175254
-        money=182576
+        money=364147
         one-hour=3723
         reg-promote=172860
     }

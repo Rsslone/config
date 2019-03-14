@@ -187,15 +187,6 @@
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
-		<planet name="Betweenia" DIMID="20" dimMapping="">
-			<skyColor>0,0.23,0.02</skyColor>
-			<fogColor>0,0.23,0.02</fogColor>
-			<atmosphereDensity>100</atmosphereDensity>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>80</orbitalDistance>
-			<orbitalPhi>38</orbitalPhi>
-			<rotationalPeriod>24000</rotationalPeriod>
-        </planet>
 		<planet name="Rigel VII" DIMID="1101">
 			<skyColor>1,0,1</skyColor>
 			<fogColor>1,0,0.5</fogColor>
@@ -232,15 +223,6 @@
 			<gravitationalMultiplier>85</gravitationalMultiplier>
 			<orbitalDistance>40</orbitalDistance>
 			<orbitalPhi>252</orbitalPhi>
-			<rotationalPeriod>12000</rotationalPeriod>
-        </planet>
-		<planet name="Twilight" DIMID="7" dimMapping="">
-			<skyColor>0.22,0,0.35</skyColor>
-			<fogColor>0.22,0,0.35</fogColor>
-			<atmosphereDensity>100</atmosphereDensity>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>120</orbitalDistance>
-			<orbitalPhi>216</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
         </planet>
 		<planet name="Krypton" DIMID="1201">
@@ -285,15 +267,6 @@
 			<orbitalPhi>288</orbitalPhi>
 			<rotationalPeriod>12000</rotationalPeriod>
 			<biomeIds>biomesoplenty:volcanic_island</biomeIds>
-        </planet>
-		<planet name="Erebus" DIMID="66" dimMapping="">
-			<skyColor>0,0.35,0.22</skyColor>
-			<fogColor>0,0.35,0.22</fogColor>
-			<atmosphereDensity>180</atmosphereDensity>
-			<gravitationalMultiplier>95</gravitationalMultiplier>
-			<orbitalDistance>80</orbitalDistance>
-			<orbitalPhi>280</orbitalPhi>
-			<rotationalPeriod>24000</rotationalPeriod>
         </planet>
 	</star>
 	<star name="Arcturus" temp="40" x="60" y="50" numPlanets="0" numGasGiants="0" blackHole="false">
